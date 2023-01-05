@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: Ob2Cloud
-    env: docker
-    repo: https://github.com/xbinner18/OpenBullet2.git
-    region: oregon
-    plan: free
